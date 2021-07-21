@@ -1,0 +1,224 @@
+{
+    "grupos": [
+        {
+            "id": 1,
+            "nome": "Módulo 2 - 1ª Parte"
+        },
+        {
+            "id": 2,
+            "nome": "Módulo 2 - 2ª Parte"
+        }
+    ],
+    "conjunto": [
+        {
+            "grupoId": 1,
+            "id": 1,
+            "expressao": "Leave",
+            "dica": "No inglês, existem alguns sons considerados longos e outros, curtos. Desses, a principal confusão que fazemos é a diferença entre o “i” longo e um “i” curto. Essa diferença fica muito clara quando pensamos em pares como: live x leave."
+        },
+        {
+            "grupoId": 1,
+            "id": 2,
+            "expressao": "Live",
+            "dica": "No inglês, existem alguns sons considerados longos e outros, curtos. Desses, a principal confusão que fazemos é a diferença entre o “i” longo e um “i” curto. Essa diferença fica muito clara quando pensamos em pares como: live x leave."
+        },
+        {
+            "grupoId": 1,
+            "id": 3,
+            "expressao": "Key",
+            "dica": "Esse som de “i” longo, muitas vezes será representado por ditongos, formados pela letra “e” e mais alguma outra vogal, ou “y”, como em key, see e sea. É importante você se atentar que não falamos seA, ou kêi"
+        },
+        {
+            "grupoId": 1,
+            "id": 4,
+            "expressao": "Sea",
+            "dica": "Esse som de “i” longo, muitas vezes será representado por ditongos, formados pela letra “e” e mais alguma outra vogal, ou “y”, como em key, see e sea. É importante você se atentar que não falamos seA, ou kêi"
+        },
+        {
+            "grupoId": 1,
+            "id": 5,
+            "expressao": "See",
+            "dica": "Esse som de “i” longo, muitas vezes será representado por ditongos, formados pela letra “e” e mais alguma outra vogal, ou “y”, como em key, see e sea. É importante você se atentar que não falamos seA, ou kêi"
+        },
+        {
+            "grupoId": 1,
+            "id": 6,
+            "expressao": "Coffee",
+            "dica": "“Coffee”, a palavra em inglês para café, possui o som da letra “i” longo"
+        },
+        {
+            "grupoId": 1,
+            "id": 7,
+            "expressao": "Cough",
+            "dica": "Enquanto que “cough” – que quer dizer tosse - não possui som de vogal, é apenas o fonema da letra “F” (apesar de ser representado pelas letras “gh”)"
+        },
+        {
+            "grupoId": 1,
+            "id": 8,
+            "expressao": "Facebook",
+            "dica": "Cuidado pra não colocar um som de “i” onde não tem, como em “facebooki”"
+        },
+        {
+            "grupoId": 1,
+            "id": 9,
+            "expressao": "McDonalds",
+            "dica": "Cuidado pra não colocar um som de “i” onde não tem, como em “facebooki”"
+        },
+        {
+            "grupoId": 1,
+            "id": 10,
+            "expressao": "Netflix",
+            "dica": "Cuidado pra não colocar um som de “i” onde não tem, como em “facebooki”"
+        },
+        {
+            "grupoId": 1,
+            "id": 11,
+            "expressao": "Empty",
+            "dica": ""
+        },
+        {
+            "grupoId": 1,
+            "id": 12,
+            "expressao": "Plenty",
+            "dica": ""
+        },
+        {
+            "grupoId": 1,
+            "id": 13,
+            "expressao": "Fifty",
+            "dica": ""
+        },
+        {
+            "grupoId": 1,
+            "id": 14,
+            "expressao": "Sixty",
+            "dica": ""
+        },
+        {
+            "grupoId": 1,
+            "id": 15,
+            "expressao": "Forty",
+            "dica": ""
+        },
+        {
+            "grupoId": 1,
+            "id": 16,
+            "expressao": "Seventy",
+            "dica": ""
+        },
+        {
+            "grupoId": 1,
+            "id": 17,
+            "expressao": "At",
+            "dica": ""
+        },
+        {
+            "grupoId": 1,
+            "id": 18,
+            "expressao": "Ate",
+            "dica": ""
+        },
+        {
+            "grupoId": 1,
+            "id": 19,
+            "expressao": "Bath",
+            "dica": ""
+        },
+        {
+            "grupoId": 1,
+            "id": 20,
+            "expressao": "Bathe",
+            "dica": ""
+        },
+        {
+            "grupoId": 1,
+            "id": 21,
+            "expressao": "Cloth",
+            "dica": ""
+        },
+        {
+            "grupoId": 1,
+            "id": 22,
+            "expressao": "Clothe",
+            "dica": ""
+        },
+        {
+            "grupoId": 1,
+            "id": 23,
+            "expressao": "Come",
+            "dica": ""
+        },
+        {
+            "grupoId": 1,
+            "id": 24,
+            "expressao": "Phone",
+            "dica": ""
+        },
+        {
+            "grupoId": 1,
+            "id": 25,
+            "expressao": "Home",
+            "dica": ""
+        },
+        {
+            "grupoId": 1,
+            "id": 26,
+            "expressao": "Look",
+            "dica": "Esse fonema tem uma diferença sutil, mas bem significativa. Em Luke, temos uma vogal longa: “ooh”. Em look, a vogal é curta: ú."
+        },
+        {
+            "grupoId": 1,
+            "id": 27,
+            "expressao": "Luke",
+            "dica": "Esse fonema tem uma diferença sutil, mas bem significativa. Em Luke, temos uma vogal longa: “ooh”. Em look, a vogal é curta: ú."
+        },
+        {
+            "grupoId": 1,
+            "id": 28,
+            "expressao": "Book",
+            "dica": ""
+        },
+        {
+            "grupoId": 1,
+            "id": 29,
+            "expressao": "Food",
+            "dica": ""
+        },
+        {
+            "grupoId": 1,
+            "id": 30,
+            "expressao": "Bad",
+            "dica": ""
+        },
+        {
+            "grupoId": 1,
+            "id": 31,
+            "expressao": "Bed",
+            "dica": ""
+        },
+        {
+            "grupoId": 1,
+            "id": 32,
+            "expressao": "Man",
+            "dica": ""
+        },
+        {
+            "grupoId": 1,
+            "id": 33,
+            "expressao": "Men",
+            "dica": ""
+        },
+        {
+            "grupoId": 2,
+            "id": 34,
+            "expressao": "Man",
+            "dica": ""
+        },
+        {
+            "grupoId": 2,
+            "id": 35,
+            "expressao": "Men",
+            "dica": ""
+        }
+    ]
+}
