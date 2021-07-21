@@ -1,2 +1,3 @@
-# back-yae
-API temporaria para curso de ingles.
+# API YAE-Teacher
+
+API temporária para app do curso de inglês
