@@ -1,1074 +1,1056 @@
 {
-    "grupos": [
-        {
-            "id": 1,
-            "nome": "Módulo 2 - 1ª Parte"
-          },
-          {
-            "id": 2,
-            "nome": "Módulo 2 - 2ª Parte"
-          },
-          {
-            "id": 3,
-            "nome": "Módulo - 3ª parte"
-          }
-    ],
-    "conjunto": [
-        {
-            "id": 1,
-            "dica": "No inglês, existem alguns sons considerados longos e outros, curtos. Desses, a principal confusão que fazemos é a diferença entre o “i” longo e um “i” curto. Essa diferença fica muito clara quando pensamos em pares como: live (curto) x leave (longo).",
-            "grupoId": 1,
-            "expressao": "Leave"
-          },
-          {
-            "id": 2,
-            "dica": "No inglês, existem alguns sons considerados longos e outros, curtos. Desses, a principal confusão que fazemos é a diferença entre o “i” longo e um “i” curto. Essa diferença fica muito clara quando pensamos em pares como: live (curto) x leave (longo).",
-            "grupoId": 1,
-            "expressao": "Live"
-          },
-          {
-            "id": 3,
-            "dica": "No inglês, existem alguns sons considerados longos e outros, curtos. Desses, a principal confusão que fazemos é a diferença entre o “i” longo e um “i” curto. Essa diferença fica muito clara quando pensamos em pares como: live (curto) x leave (longo).",
-            "grupoId": 1,
-            "expressao": "Key"
-          },
-          {
-            "id": 6,
-            "dica": "“Coffee”, a palavra em inglês para café, possui o som da letra “i” longo ao final da palavra.",
-            "grupoId": 1,
-            "expressao": "Coffee"
-          },
-          {
-            "id": 7,
-            "dica": "Enquanto que “cough” – que quer dizer tosse - não possui som de vogal, é apenas o fonema da letra “F” (apesar de ser representado pelas letras “gh”).",
-            "grupoId": 1,
-            "expressao": "Cough"
-          },
-          {
-            "grupoId": 1,
-            "id": 8,
-            "expressao": "Facebook",
-            "dica": "Cuidado pra não colocar um som de “i” onde não tem, como em “facebooki”"
-          },
-          {
-            "grupoId": 1,
-            "id": 9,
-            "expressao": "McDonald's",
-            "dica": "Cuidado pra não colocar um som de “i” onde não tem, como em “facebooki”"
-          },
-          {
-            "grupoId": 1,
-            "id": 10,
-            "expressao": "Netflix",
-            "dica": "Cuidado pra não colocar um som de “i” onde não tem, como em “facebooki”"
-          },
-          {
-            "id": 11,
-            "dica": "Não esqueça de falar o \"y\" ao final das palavras! Aqui, é o oposto do que ocorre em \"facebooki\", pois precisamos desse som ao final da palavra. ",
-            "grupoId": 1,
-            "expressao": "Empty"
-          },
-          {
-            "id": 12,
-            "dica": "Não esqueça de falar o \"y\" ao final das palavras! Aqui, é o oposto do que ocorre em \"facebooki\", pois precisamos desse som ao final da palavra. ",
-            "grupoId": 1,
-            "expressao": "Plenty"
-          },
-          {
-            "id": 13,
-            "dica": "Não esqueça de falar o \"y\" ao final das palavras! Aqui, é o oposto do que ocorre em \"facebooki\", pois precisamos desse som ao final da palavra. ",
-            "grupoId": 1,
-            "expressao": "Fifty"
-          },
-          {
-            "id": 14,
-            "dica": "Não esqueça de falar o \"y\" ao final das palavras! Aqui, é o oposto do que ocorre em \"facebooki\", pois precisamos desse som ao final da palavra. ",
-            "grupoId": 1,
-            "expressao": "Sixty"
-          },
-          {
-            "id": 17,
-            "dica": "Compare a pronúncia de \"at\" e \"ate\". ",
-            "grupoId": 1,
-            "expressao": "At"
-          },
-          {
-            "id": 18,
-            "dica": "Compare a pronúncia de \"at\" e \"ate\". Esta letra \"e\" ao final não deve ser falada, ela está ali apenas para alterar o som da vogal anterior.",
-            "grupoId": 1,
-            "expressao": "Ate"
-          },
-          {
-            "id": 19,
-            "dica": "Compare a pronúncia de \"bath\" e \"bathe\".",
-            "grupoId": 1,
-            "expressao": "Bath"
-          },
-          {
-            "id": 20,
-            "dica": "Compare a pronúncia de \"bath\" e \"bathe\". Esta letra \"e\" ao final não deve ser falada, ela está ali apenas para alterar o som da vogal anterior.",
-            "grupoId": 1,
-            "expressao": "Bathe"
-          },
-          {
-            "id": 21,
-            "dica": "Compare a pronúncia de \"cloth\" e \"clothe\". ",
-            "grupoId": 1,
-            "expressao": "Cloth"
-          },
-          {
-            "id": 22,
-            "dica": "Compare a pronúncia de \"cloth\" e \"clothe\". Esta letra \"e\" ao final não deve ser falada, ela está ali apenas para alterar o som da vogal anterior.",
-            "grupoId": 1,
-            "expressao": "Clothe"
-          },
-          {
-            "id": 23,
-            "dica": "Esta letra \"e\" ao final não deve ser falada, ela está ali apenas para alterar o som da vogal anterior. ",
-            "grupoId": 1,
-            "expressao": "Come"
-          },
-          {
-            "id": 24,
-            "dica": "Esta letra \"e\" ao final não deve ser falada, ela está ali apenas para alterar o som da vogal anterior.",
-            "grupoId": 1,
-            "expressao": "Phone"
-          },
-          {
-            "id": 25,
-            "dica": "Esta letra \"e\" ao final não deve ser falada, ela está ali apenas para alterar o som da vogal anterior.",
-            "grupoId": 1,
-            "expressao": "Home"
-          },
-          {
-            "id": 26,
-            "dica": "Compare a pronúncia de \"look\" (u curto) e \"Luke\" (u longo).",
-            "grupoId": 1,
-            "expressao": "Look"
-          },
-          {
-            "id": 27,
-            "dica": "Compare a pronúncia de \"look\" (u curto) e \"Luke\" (u longo).",
-            "grupoId": 1,
-            "expressao": "Luke"
-          },
-          {
-            "id": 28,
-            "dica": "\"Book\" tem som de \"u\" curto.",
-            "grupoId": 1,
-            "expressao": "Book"
-          },
-          {
-            "id": 29,
-            "dica": "\"food\" tem som de \"u\" longo.",
-            "grupoId": 1,
-            "expressao": "Food"
-          },
-          {
-            "id": 30,
-            "dica": "Compare as pronúncias de \"bad\" e \"bed\". Em “bed” temos um som de letra “é” curto, já em “bad” temos um som de letra “é” longo e mais aberto, como se fôssemos falar um “a”.",
-            "grupoId": 1,
-            "expressao": "Bad"
-          },
-          {
-            "id": 31,
-            "dica": "Compare as pronúncias de \"bad\" e \"bed\". Em “bed” temos um som de letra “é” curto, já em “bad” temos um som de letra “é” longo e mais aberto, como se fôssemos falar um “a”.",
-            "grupoId": 1,
-            "expressao": "Bed"
-          },
-          {
-            "id": 32,
-            "dica": "Compare as pronúncias de \"man\" e \"men\". Em “men” temos um som de letra “é” curto, já em “man” temos um som de letra “é” longo e mais aberto, como se fôssemos falar um “a”.",
-            "grupoId": 1,
-            "expressao": "Man"
-          },
-          {
-            "id": 33,
-            "dica": "Compare as pronúncias de \"man\" e \"men\". Em “men” temos um som de letra “é” curto, já em “man” temos um som de letra “é” longo e mais aberto, como se fôssemos falar um “a”.",
-            "grupoId": 1,
-            "expressao": "Men"
-          },
-          {
-            "id": 36,
-            "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato (aquela coçadinha na garganta). O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
-            "grupoId": 1,
-            "expressao": "House"
-          },
-          {
-            "id": 37,
-            "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato (aquela coçadinha na garganta). O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
-            "grupoId": 1,
-            "expressao": "Hugo"
-          },
-          {
-            "id": 38,
-            "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato (aquela coçadinha na garganta). O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
-            "grupoId": 1,
-            "expressao": "hour"
-          },
-          {
-            "id": 39,
-            "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato (aquela coçadinha na garganta). O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
-            "grupoId": 1,
-            "expressao": "heir"
-          },
-          {
-            "id": 40,
-            "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato (aquela coçadinha na garganta). O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
-            "grupoId": 1,
-            "expressao": "honor"
-          },
-          {
-            "id": 41,
-            "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, silencioso, ou ter som do nosso “r” de rato (aquela coçadinha na garganta). O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
-            "grupoId": 1,
-            "expressao": "Henry"
-          },
-          {
-            "id": 42,
-            "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato (aquela coçadinha na garganta). O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
-            "grupoId": 1,
-            "expressao": "honest"
-          },
-          {
-            "id": 43,
-            "dica": "Quando temos um som de consoante e, em seguida, um som de vogal (mesmo que em palavras separadas), precisamos juntar esses sons, como em \"anour\". ",
-            "grupoId": 1,
-            "expressao": "an hour"
-          },
-          {
-            "id": 44,
-            "dica": "Quando temos um som de consoante e, em seguida, um som de vogal (mesmo que em palavras separadas), precisamos juntar esses sons, como em \"anonest\". ",
-            "grupoId": 1,
-            "expressao": "an honest mistake"
-          },
-          {
-            "id": 45,
-            "dica": "Quando temos um som de consoante e, em seguida, um som de vogal (mesmo que em palavras separadas), precisamos juntar esses sons, como em \"anonor\".",
-            "grupoId": 1,
-            "expressao": "such an honor!"
-          },
-          {
-            "id": 46,
-            "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato. Aquela coçadinha na garganta. O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
-            "grupoId": 2,
-            "expressao": "house"
-          },
-          {
-            "id": 47,
-            "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato. Aquela coçadinha na garganta. O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
-            "grupoId": 2,
-            "expressao": "Hugo"
-          },
-          {
-            "id": 48,
-            "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato. Aquela coçadinha na garganta. O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
-            "grupoId": 2,
-            "expressao": "hour"
-          },
-          {
-            "id": 49,
-            "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato. Aquela coçadinha na garganta. O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
-            "grupoId": 2,
-            "expressao": "Henry"
-          },
-          {
-            "id": 50,
-            "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato. Aquela coçadinha na garganta. O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
-            "grupoId": 2,
-            "expressao": "heir"
-          },
-          {
-            "id": 51,
-            "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato. Aquela coçadinha na garganta. O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
-            "grupoId": 2,
-            "expressao": "honor"
-          },
-          {
-            "id": 52,
-            "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato. Aquela coçadinha na garganta. O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
-            "grupoId": 2,
-            "expressao": "honest"
-          },
-          {
-            "id": 53,
-            "dica": "Quando temos um som de consoante e, em seguida, um som de vogal (mesmo que em palavras separadas), precisamos juntar esses sons, como em \"anour\". ",
-            "grupoId": 2,
-            "expressao": "an hour"
-          },
-          {
-            "id": 54,
-            "dica": "Quando temos um som de consoante e, em seguida, um som de vogal (mesmo que em palavras separadas), precisamos juntar esses sons, como em \"anonest\". ",
-            "grupoId": 2,
-            "expressao": "an honest mistake"
-          },
-          {
-            "id": 55,
-            "dica": "Quando temos um som de consoante e, em seguida, um som de vogal (mesmo que em palavras separadas), precisamos juntar esses sons, como em \"anonor\". ",
-            "grupoId": 2,
-            "expressao": "such an honor!"
-          },
-          {
-            "id": 56,
-            "dica": "A letra “L” do inglês é um pouco mais complexa que no português. Mesmo ao final das palavras, ela deve ser bem pronunciada. O que acontece é: ponta da língua no céu da boca, dorso e começo da língua bem abaixados e o céu da boca vai levantar automaticamente. ",
-            "grupoId": 2,
-            "expressao": "Brazil"
-          },
-          {
-            "id": 57,
-            "dica": "A letra “L” do inglês é um pouco mais complexa que no português. Mesmo ao final das palavras, ela deve ser bem pronunciada. O que acontece é: ponta da língua no céu da boca, dorso e começo da língua bem abaixados e o céu da boca vai levantar automaticamente. ",
-            "grupoId": 2,
-            "expressao": "all"
-          },
-          {
-            "id": 58,
-            "dica": "A letra “L” do inglês é um pouco mais complexa que no português. Mesmo ao final das palavras, ela deve ser bem pronunciada. O que acontece é: ponta da língua no céu da boca, dorso e começo da língua bem abaixados e o céu da boca vai levantar automaticamente. ",
-            "grupoId": 2,
-            "expressao": "boil"
-          },
-          {
-            "id": 59,
-            "dica": "A letra “L” do inglês é um pouco mais complexa que no português. Mesmo ao final das palavras, ela deve ser bem pronunciada. O que acontece é: ponta da língua no céu da boca, dorso e começo da língua bem abaixados e o céu da boca vai levantar automaticamente. ",
-            "grupoId": 2,
-            "expressao": "heel"
-          },
-          {
-            "id": 60,
-            "dica": "A letra “L” do inglês é um pouco mais complexa que no português. Mesmo ao final das palavras, ela deve ser bem pronunciada. O que acontece é: ponta da língua no céu da boca, dorso e começo da língua bem abaixados e o céu da boca vai levantar automaticamente. ",
-            "grupoId": 2,
-            "expressao": "hill"
-          },
-          {
-            "id": 61,
-            "dica": "A letra “L” do inglês é um pouco mais complexa que no português. Mesmo ao final das palavras, ela deve ser bem pronunciada. O que acontece é: ponta da língua no céu da boca, dorso e começo da língua bem abaixados e o céu da boca vai levantar automaticamente. ",
-            "grupoId": 2,
-            "expressao": "sale"
-          },
-          {
-            "id": 62,
-            "dica": "No português, a finalização da letra “m” é muito diferente do inglês. Em inglês, precisamos terminar a letra com os lábios fechados.",
-            "grupoId": 2,
-            "expressao": "mom"
-          },
-          {
-            "id": 63,
-            "dica": "No português, a finalização da letra “m” é muito diferente do inglês. Em inglês, precisamos terminar a letra com os lábios fechados.",
-            "grupoId": 2,
-            "expressao": "come"
-          },
-          {
-            "id": 64,
-            "dica": "No português, a finalização da letra “m” é muito diferente do inglês. Em inglês, precisamos terminar a letra com os lábios fechados.",
-            "grupoId": 2,
-            "expressao": "ham"
-          },
-          {
-            "id": 65,
-            "dica": "No português, a finalização da letra “m” é muito diferente do inglês. Em inglês, precisamos terminar a letra com os lábios fechados.",
-            "grupoId": 2,
-            "expressao": "am"
-          },
-          {
-            "id": 66,
-            "dica": "No português, a finalização da letra “m” é muito diferente do inglês. Em inglês, precisamos terminar a letra com os lábios fechados.",
-            "grupoId": 2,
-            "expressao": "boom"
-          },
-          {
-            "id": 67,
-            "dica": "Já com relação à letra \"n\", terminamos com os lábios abertos, mas a ponta da língua fica lá em cima no céu da boca.",
-            "grupoId": 2,
-            "expressao": "sun"
-          },
-          {
-            "id": 68,
-            "dica": "Já com relação à letra \"n\", terminamos com os lábios abertos, mas a ponta da língua fica lá em cima no céu da boca.",
-            "grupoId": 2,
-            "expressao": "son"
-          },
-          {
-            "id": 69,
-            "dica": "Já com relação à letra \"n\", terminamos com os lábios abertos, mas a ponta da língua fica lá em cima no céu da boca.",
-            "grupoId": 2,
-            "expressao": "on"
-          },
-          {
-            "id": 70,
-            "dica": "Já com relação à letra \"n\", terminamos com os lábios abertos, mas a ponta da língua fica lá em cima no céu da boca.",
-            "grupoId": 2,
-            "expressao": "own"
-          },
-          {
-            "id": 71,
-            "dica": "Já com relação à letra \"n\", terminamos com os lábios abertos, mas a ponta da língua fica lá em cima no céu da boca.",
-            "grupoId": 2,
-            "expressao": "in"
-          },
-          {
-            "id": 72,
-            "dica": "Já com relação à letra \"n\", terminamos com os lábios abertos, mas a ponta da língua fica lá em cima no céu da boca.",
-            "grupoId": 2,
-            "expressao": "win"
-          },
-          {
-            "id": 73,
-            "dica": "Já com relação à letra \"n\", terminamos com os lábios abertos, mas a ponta da língua fica lá em cima no céu da boca.",
-            "grupoId": 2,
-            "expressao": "run"
-          },
-          {
-            "id": 74,
-            "dica": "Já com relação à letra \"n\", terminamos com os lábios abertos, mas a ponta da língua fica lá em cima no céu da boca.",
-            "grupoId": 2,
-            "expressao": "fan"
-          },
-          {
-            "id": 75,
-            "dica": "Já com relação à letra \"n\", terminamos com os lábios abertos, mas a ponta da língua fica lá em cima no céu da boca.",
-            "grupoId": 2,
-            "expressao": "fun"
-          },
-          {
-            "id": 76,
-            "dica": "O som do “r” no inglês é bem simples, só tem uma opção. O que nos confunde é que, no português, podemos fazer vários sons com o \"R\": Rato, pRoblema, poRta. Em inglês, basicamente, temos só o som de “poRta”, não interessa se no meio, no começo ou no final da palavra. ",
-            "grupoId": 2,
-            "expressao": "restaurant"
-          },
-          {
-            "id": 77,
-            "dica": "O som do “r” no inglês é bem simples, só tem uma opção. O que nos confunde é que, no português, podemos fazer vários sons com o \"R\": Rato, pRoblema, poRta. Em inglês, basicamente, temos só o som de “poRta”, não interessa se no meio, no começo ou no final da palavra. ",
-            "grupoId": 2,
-            "expressao": "great"
-          },
-          {
-            "id": 78,
-            "dica": "O som do “r” no inglês é bem simples, só tem uma opção. O que nos confunde é que, no português, podemos fazer vários sons com o \"R\": Rato, pRoblema, poRta. Em inglês, basicamente, temos só o som de “poRta”, não interessa se no meio, no começo ou no final da palavra. ",
-            "grupoId": 2,
-            "expressao": "room"
-          },
-          {
-            "id": 79,
-            "dica": "O som do “r” no inglês é bem simples, só tem uma opção. O que nos confunde é que, no português, podemos fazer vários sons com o \"R\": Rato, pRoblema, poRta. Em inglês, basicamente, temos só o som de “poRta”, não interessa se no meio, no começo ou no final da palavra. ",
-            "grupoId": 2,
-            "expressao": "roar"
-          },
-          {
-            "id": 80,
-            "dica": "O som do “r” no inglês é bem simples, só tem uma opção. O que nos confunde é que, no português, podemos fazer vários sons com o \"R\": Rato, pRoblema, poRta. Em inglês, basicamente, temos só o som de “poRta”, não interessa se no meio, no começo ou no final da palavra. ",
-            "grupoId": 2,
-            "expressao": "America"
-          },
-          {
-            "id": 81,
-            "dica": "A dica aqui é falar os dois sons que já aprendemos separadamente: R e L. Fale um, depois o outro, e vá acelerando até parecer um som só.",
-            "grupoId": 2,
-            "expressao": "world"
-          },
-          {
-            "id": 82,
-            "dica": "A dica aqui é falar os dois sons que já aprendemos separadamente: R e L. Fale um, depois o outro, e vá acelerando até parecer um som só.",
-            "grupoId": 2,
-            "expressao": "girl"
-          },
-          {
-            "id": 83,
-            "dica": "A dica aqui é falar os dois sons que já aprendemos separadamente: R e L. Fale um, depois o outro, e vá acelerando até parecer um som só. *muita atenção ao som do \"les\" em Charles.",
-            "grupoId": 2,
-            "expressao": "Charles"
-          },
-          {
-            "id": 84,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele é bem limpo, claro, sem ar escapando.",
-            "grupoId": 2,
-            "expressao": "tea"
-          },
-          {
-            "id": 85,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele é bem limpo, claro, sem ar escapando.",
-            "grupoId": 2,
-            "expressao": "teacher"
-          },
-          {
-            "id": 86,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele é bem limpo, claro, sem ar escapando.",
-            "grupoId": 2,
-            "expressao": "hot"
-          },
-          {
-            "id": 87,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele é bem limpo, claro, sem ar escapando.",
-            "grupoId": 2,
-            "expressao": "can't"
-          },
-          {
-            "id": 88,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele é bem limpo, claro, sem ar escapando.",
-            "grupoId": 2,
-            "expressao": "what"
-          },
-          {
-            "id": 89,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele é bem limpo, claro, sem ar escapando.",
-            "grupoId": 2,
-            "expressao": "that"
-          },
-          {
-            "id": 90,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, deixamos sair um pouco de ar.",
-            "grupoId": 2,
-            "expressao": "to"
-          },
-          {
-            "id": 91,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, deixamos sair um pouco de ar.",
-            "grupoId": 2,
-            "expressao": "tomorrow"
-          },
-          {
-            "id": 92,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, deixamos sair um pouco de ar.",
-            "grupoId": 2,
-            "expressao": "talk"
-          },
-          {
-            "id": 93,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, o “t” tem um som de “r” como em “pRoblema”. Isto vai acontecer sempre que o “t” estiver entre sons de vogais e for uma sílaba fraca.",
-            "grupoId": 2,
-            "expressao": "a lot of"
-          },
-          {
-            "id": 94,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, o “t” tem um som de “r” como em “pRoblema”. Isto vai acontecer sempre que o “t” estiver entre sons de vogais e for uma sílaba fraca.",
-            "grupoId": 2,
-            "expressao": "little"
-          },
-          {
-            "id": 95,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, o “t” tem um som de “r” como em “pRoblema”. Isto vai acontecer sempre que o “t” estiver entre vogais e for uma sílaba fraca.",
-            "grupoId": 2,
-            "expressao": "party"
-          },
-          {
-            "id": 96,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, o “t” tem um som de “r” como em “pRoblema”. Isto vai acontecer sempre que o “t” estiver entre vogais e for uma sílaba fraca.",
-            "grupoId": 2,
-            "expressao": "better"
-          },
-          {
-            "id": 97,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, o “t” tem um som de “r” como em “pRoblema”. Isto vai acontecer sempre que o “t” estiver entre vogais e for uma sílaba fraca.",
-            "grupoId": 2,
-            "expressao": "Italy"
-          },
-          {
-            "id": 98,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, o “t” tem um som de “r” como em “pRoblema”. Isto vai acontecer sempre que o “t” estiver entre vogais e for uma sílaba fraca.",
-            "grupoId": 2,
-            "expressao": "started"
-          },
-          {
-            "id": 99,
-            "dica": "Aqui, a letra \"d\" tem o mesmo som de \"r\" que temos em \"a lot of\".",
-            "grupoId": 2,
-            "expressao": "daddy"
-          },
-          {
-            "id": 100,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele não é falado.",
-            "grupoId": 2,
-            "expressao": "listen"
-          },
-          {
-            "id": 101,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele não é falado.",
-            "grupoId": 2,
-            "expressao": "Christmas"
-          },
-          {
-            "id": 102,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele não é falado.",
-            "grupoId": 2,
-            "expressao": "whistle"
-          },
-          {
-            "id": 103,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele não é falado.",
-            "grupoId": 2,
-            "expressao": "castle"
-          },
-          {
-            "id": 104,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele pode ser falado (com som de \"t\" sem ar), ou não.",
-            "grupoId": 2,
-            "expressao": "interview"
-          },
-          {
-            "id": 105,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele pode ser falado (com som de \"t\" sem ar), ou não.",
-            "grupoId": 2,
-            "expressao": "advantage"
-          },
-          {
-            "id": 106,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele pode ser falado (com som de \"t\" sem ar), ou não.",
-            "grupoId": 2,
-            "expressao": "twenty"
-          },
-          {
-            "id": 107,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, deixamos sair um pouco de ar.",
-            "grupoId": 2,
-            "expressao": "Italian"
-          },
-          {
-            "id": 108,
-            "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, deixamos sair um pouco de ar.",
-            "grupoId": 2,
-            "expressao": "attack"
-          },
-          {
-            "id": 109,
-            "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
-            "grupoId": 2,
-            "expressao": "think"
-          },
-          {
-            "id": 110,
-            "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
-            "grupoId": 2,
-            "expressao": "thought"
-          },
-          {
-            "id": 111,
-            "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
-            "grupoId": 2,
-            "expressao": "thing"
-          },
-          {
-            "id": 112,
-            "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
-            "grupoId": 2,
-            "expressao": "fourth"
-          },
-          {
-            "id": 113,
-            "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e mantemos ela um pouco mais próxima dos dentes superiores, oferecendo certa resistência à passagem do ar.",
-            "grupoId": 2,
-            "expressao": "that"
-          },
-          {
-            "id": 114,
-            "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e mantemos ela um pouco mais próxima dos dentes superiores, oferecendo certa resistência à passagem do ar.",
-            "grupoId": 2,
-            "expressao": "this"
-          },
-          {
-            "id": 115,
-            "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e mantemos ela um pouco mais próxima dos dentes superiores, oferecendo certa resistência à passagem do ar.",
-            "grupoId": 2,
-            "expressao": "these"
-          },
-          {
-            "id": 116,
-            "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e mantemos ela um pouco mais próxima dos dentes superiores, oferecendo certa resistência à passagem do ar.",
-            "grupoId": 2,
-            "expressao": "those"
-          },
-          {
-            "id": 117,
-            "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e mantemos ela um pouco mais próxima dos dentes superiores, oferecendo certa resistência à passagem do ar.",
-            "grupoId": 2,
-            "expressao": "then"
-          },
-          {
-            "id": 118,
-            "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
-            "grupoId": 2,
-            "expressao": "fifth"
-          },
-          {
-            "id": 119,
-            "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
-            "grupoId": 2,
-            "expressao": "sixth"
-          },
-          {
-            "id": 120,
-            "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
-            "grupoId": 2,
-            "expressao": "seventh"
-          },
-          {
-            "id": 121,
-            "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
-            "grupoId": 2,
-            "expressao": "eighth"
-          },
-          {
-            "id": 122,
-            "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
-            "grupoId": 2,
-            "expressao": "ninth"
-          },
-          {
-            "id": 123,
-            "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
-            "grupoId": 2,
-            "expressao": "tenth"
-          },
-          {
-            "id": 124,
-            "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
-            "grupoId": 2,
-            "expressao": "twelfth"
-          },
-          {
-            "id": 125,
-            "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
-            "grupoId": 2,
-            "expressao": "twentieth"
-          },
-          {
-            "id": 126,
-            "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
-            "grupoId": 2,
-            "expressao": "thirtieth"
-          },
-          {
-            "id": 127,
-            "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
-            "grupoId": 2,
-            "expressao": "fortieth"
-          },
-          {
-            "id": 128,
-            "dica": "Os numerais terminados em “teen” tem esta sílaba tônica. Cuidado para não confundir com os terminados em “ty”",
-            "grupoId": 2,
-            "expressao": "fourteen"
-          },
-          {
-            "id": 129,
-            "dica": "Os numerais terminados em “ty” tem esta sílaba fraca. Cuidado para não confundir com os terminados em “teen”",
-            "grupoId": 2,
-            "expressao": "forty"
-          },
-          {
-            "id": 130,
-            "dica": "Os numerais terminados em “teen” tem esta sílaba tônica. Cuidado para não confundir com os terminados em “ty”",
-            "grupoId": 2,
-            "expressao": "thirteen"
-          },
-          {
-            "id": 131,
-            "dica": "Os numerais terminados em “ty” tem esta sílaba fraca. Cuidado para não confundir com os terminados em “teen”",
-            "grupoId": 2,
-            "expressao": "thirty"
-          },
-          {
-            "id": 132,
-            "dica": "Os numerais terminados em “teen” tem esta sílaba tônica. Cuidado para não confundir com os terminados em “ty”",
-            "grupoId": 2,
-            "expressao": "eighteen"
-          },
-          {
-            "id": 133,
-            "dica": "Os numerais terminados em “ty” tem esta sílaba fraca. Cuidado para não confundir com os terminados em “teen”",
-            "grupoId": 2,
-            "expressao": "eighty"
-          },
-          {
-            "id": 134,
-            "dica": "Na maioria das palavras terminadas em -ed, a letra \"e\" não tem som, fale somente a consoante final.",
-            "grupoId": 3,
-            "expressao": "worked"
-          },
-          {
-            "id": 135,
-            "dica": "Na maioria das palavras terminadas em -ed, a letra \"e\" não tem som, fale somente a consoante final.",
-            "grupoId": 3,
-            "expressao": "traveled"
-          },
-          {
-            "id": 136,
-            "dica": "Na maioria das palavras terminadas em -ed, a letra \"e\" não tem som, fale somente a consoante final.",
-            "grupoId": 3,
-            "expressao": "walked"
-          },
-          {
-            "id": 137,
-            "dica": "Na maioria das palavras terminadas em -ed, a letra \"e\" não tem som, fale somente a consoante final.",
-            "grupoId": 3,
-            "expressao": "watched"
-          },
-          {
-            "id": 138,
-            "dica": "A regra do \"e\" sem som só não vale para os verbos terminados em \"t\" e \"d\". Neste caso, a letra \"e\" é falada, mas com som fraco.",
-            "grupoId": 3,
-            "expressao": "started"
-          },
-          {
-            "id": 139,
-            "dica": "A regra do \"e\" sem som só não vale para os verbos terminados em \"t\" e \"d\". Neste caso, a letra \"e\" é falada, mas com som fraco.",
-            "grupoId": 3,
-            "expressao": "wounded"
-          },
-          {
-            "id": 140,
-            "dica": "A regra do \"e\" sem som só não vale para os verbos terminados em \"t\" e \"d\". Neste caso, a letra \"e\" é falada, mas com som fraco.",
-            "grupoId": 3,
-            "expressao": "sounded"
-          },
-          {
-            "id": 141,
-            "dica": "Algumas palavras exigem mais treino para nos acostumarmos com a pronúncia. Ouça várias vezes e repita até se sentir confortável. Nesta, o \"gh\" não tem som.",
-            "grupoId": 3,
-            "expressao": "through"
-          },
-          {
-            "id": 142,
-            "dica": "Algumas palavras exigem mais treino para nos acostumarmos com a pronúncia. Ouça várias vezes e repita até se sentir confortável. Nesta, o \"gh\" tem som de \"f\".",
-            "grupoId": 3,
-            "expressao": "tough"
-          },
-          {
-            "id": 143,
-            "dica": "Algumas palavras exigem mais treino para nos acostumarmos com a pronúncia. Ouça várias vezes e repita até se sentir confortável.",
-            "grupoId": 3,
-            "expressao": "thought"
-          },
-          {
-            "id": 144,
-            "dica": "Algumas palavras exigem mais treino para nos acostumarmos com a pronúncia. Ouça várias vezes e repita até se sentir confortável. Nesta, o \"gh\" não tem som.",
-            "grupoId": 3,
-            "expressao": "thorough"
-          },
-          {
-            "id": 145,
-            "dica": "Algumas palavras exigem mais treino para nos acostumarmos com a pronúncia. Ouça várias vezes e repita até se sentir confortável. Nesta, o \"gh\" tem som de \"f\".",
-            "grupoId": 3,
-            "expressao": "laugh"
-          },
-          {
-            "id": 146,
-            "dica": "Algumas palavras exigem mais treino para nos acostumarmos com a pronúncia. Ouça várias vezes e repita até se sentir confortável. Nesta, o \"gh\" tem som de \"f\".",
-            "grupoId": 3,
-            "expressao": "cough"
-          },
-          {
-            "id": 147,
-            "dica": "Algumas palavras exigem mais treino para nos acostumarmos com a pronúncia. Ouça várias vezes e repita até se sentir confortável. Nesta, o \"gh\" não tem som.",
-            "grupoId": 3,
-            "expressao": "night"
-          },
-          {
-            "id": 148,
-            "dica": "Algumas palavras exigem mais treino para nos acostumarmos com a pronúncia. Ouça várias vezes e repita até se sentir confortável. Nesta, o \"gh\" não tem som.",
-            "grupoId": 3,
-            "expressao": "eight"
-          },
-          {
-            "id": 149,
-            "dica": "Algumas palavras exigem mais treino para nos acostumarmos com a pronúncia. Ouça várias vezes e repita até se sentir confortável.",
-            "grupoId": 3,
-            "expressao": "drawer"
-          },
-          {
-            "id": 150,
-            "dica": "Algumas palavras exigem mais treino para nos acostumarmos com a pronúncia. Ouça várias vezes e repita até se sentir confortável.",
-            "grupoId": 3,
-            "expressao": "jewelry"
-          },
-          {
-            "id": 151,
-            "dica": "Compare a pronúncia de \"want\" e \"went\".",
-            "grupoId": 3,
-            "expressao": "want"
-          },
-          {
-            "id": 152,
-            "dica": "Compare a pronúncia de \"want\" e \"went\".",
-            "grupoId": 3,
-            "expressao": "went"
-          },
-          {
-            "id": 153,
-            "dica": "Compare a pronúncia de \"drank\" e \"drunk\".",
-            "grupoId": 3,
-            "expressao": "drank"
-          },
-          {
-            "id": 154,
-            "dica": "Compare a pronúncia de \"drank\" e \"drunk\".",
-            "grupoId": 3,
-            "expressao": "drunk"
-          },
-          {
-            "id": 155,
-            "dica": "Sílabas fracas podem ter som de \"schwa\", uma vogal diferente do inglês. São sílabas bem curtinhas e sem destaque na palavra, com um som parecido com \"ã\". Às vezes, podem ser suprimidas sem prejuízo nenhum.",
-            "grupoId": 3,
-            "expressao": "balloon"
-          },
-          {
-            "id": 156,
-            "dica": "Sílabas fracas podem ter som de \"schwa\", uma vogal diferente do inglês. São sílabas bem curtinhas e sem destaque na palavra, com um som parecido com \"ã\". Às vezes, podem ser suprimidas sem prejuízo nenhum.",
-            "grupoId": 3,
-            "expressao": "family"
-          },
-          {
-            "id": 157,
-            "dica": "Sílabas fracas podem ter som de \"schwa\", uma vogal diferente do inglês. São sílabas bem curtinhas e sem destaque na palavra, com um som parecido com \"ã\". Às vezes, podem ser suprimidas sem prejuízo nenhum.",
-            "grupoId": 3,
-            "expressao": "problem"
-          },
-          {
-            "id": 158,
-            "dica": "Sílabas fracas podem ter som de \"schwa\", uma vogal diferente do inglês. São sílabas bem curtinhas e sem destaque na palavra, com um som parecido com \"ã\". Às vezes, podem ser suprimidas sem prejuízo nenhum.",
-            "grupoId": 3,
-            "expressao": "interesting"
-          },
-          {
-            "id": 159,
-            "dica": "A sílaba tônica pode mudar muito a forma que uma palavra é falada. Compare as pronúncias de \"photograph\", \"photography\" e \"photographer\".",
-            "grupoId": 3,
-            "expressao": "photograph"
-          },
-          {
-            "id": 160,
-            "dica": "A sílaba tônica pode mudar muito a forma que uma palavra é falada. Compare as pronúncias de \"photograph\", \"photography\" e \"photographer\".",
-            "grupoId": 3,
-            "expressao": "photography"
-          },
-          {
-            "id": 161,
-            "dica": "A sílaba tônica pode mudar muito a forma que uma palavra é falada. Compare as pronúncias de \"photograph\", \"photography\" e \"photographer\".",
-            "grupoId": 3,
-            "expressao": "photographer"
-          },
-          {
-            "id": 162,
-            "dica": "Nesta palavra, a letra \"b\" não é falada.",
-            "grupoId": 3,
-            "expressao": "doubt"
-          },
-          {
-            "id": 163,
-            "dica": "Nesta palavra, a letra \"b\" não é falada.",
-            "grupoId": 3,
-            "expressao": "climb"
-          },
-          {
-            "id": 164,
-            "dica": "Nesta palavra, a letra \"b\" não é falada.",
-            "grupoId": 3,
-            "expressao": "bomb"
-          },
-          {
-            "id": 165,
-            "dica": "A sílaba tônica pode mudar muito a forma que uma palavra é falada. ",
-            "grupoId": 3,
-            "expressao": "permanently"
-          },
-          {
-            "id": 166,
-            "dica": "A sílaba tônica pode mudar muito a forma que uma palavra é falada. ",
-            "grupoId": 3,
-            "expressao": "supervisor"
-          },
-          {
-            "id": 167,
-            "dica": "A sílaba tônica pode mudar muito a forma que uma palavra é falada. ",
-            "grupoId": 3,
-            "expressao": "demonstrated"
-          },
-          {
-            "id": 168,
-            "dica": "A sílaba tônica pode mudar muito a forma que uma palavra é falada. ",
-            "grupoId": 3,
-            "expressao": "category"
-          },
-          {
-            "id": 169,
-            "dica": "A sílaba tônica pode mudar muito a forma que uma palavra é falada. ",
-            "grupoId": 3,
-            "expressao": "documentary"
-          },
-          {
-            "id": 170,
-            "dica": "Palavras que têm o mesmo som te ajudam a decorar a pronúncia pra não errar mais. Compare a pronúncia de \"hear\" e \"here\".",
-            "grupoId": 3,
-            "expressao": "hear"
-          },
-          {
-            "id": 171,
-            "dica": "Palavras que têm o mesmo som te ajudam a decorar a pronúncia pra não errar mais. Compare a pronúncia de \"hear\" e \"here\".",
-            "grupoId": 3,
-            "expressao": "here"
-          },
-          {
-            "id": 172,
-            "dica": "Palavras que têm o mesmo som te ajudam a decorar a pronúncia pra não errar mais. Compare a pronúncia de \"eye\" e \"I\".",
-            "grupoId": 3,
-            "expressao": "eye"
-          },
-          {
-            "id": 173,
-            "dica": "Palavras que têm o mesmo som te ajudam a decorar a pronúncia pra não errar mais. Compare a pronúncia de \"eye\" e \"I\".",
-            "grupoId": 3,
-            "expressao": "I"
-          },
-          {
-            "id": 174,
-            "dica": "Palavras que têm o mesmo som te ajudam a decorar a pronúncia pra não errar mais. Compare a pronúncia de \"where\" e \"wear\".",
-            "grupoId": 3,
-            "expressao": "Where"
-          },
-          {
-            "id": 175,
-            "dica": "Palavras que têm o mesmo som te ajudam a decorar a pronúncia pra não errar mais. Compare a pronúncia de \"where\" e \"wear\".",
-            "grupoId": 3,
-            "expressao": "wear"
-          },
-          {
-            "id": 176,
-            "dica": "Palavras que têm o mesmo som te ajudam a decorar a pronúncia pra não errar mais. Compare a pronúncia de \"there\" e \"their\".",
-            "grupoId": 3,
-            "expressao": "there"
-          },
-          {
-            "id": 177,
-            "dica": "Palavras que têm o mesmo som te ajudam a decorar a pronúncia pra não errar mais. Compare a pronúncia de \"there\" e \"their\".",
-            "grupoId": 3,
-            "expressao": "their"
-          },
-          {
-            "id": 178,
-            "dica": "Palavras que têm o mesmo som te ajudam a decorar a pronúncia pra não errar mais. Compare a pronúncia de \"know\" e \"no\".",
-            "grupoId": 3,
-            "expressao": "know"
-          },
-          {
-            "id": 179,
-            "dica": "Palavras que têm o mesmo som te ajudam a decorar a pronúncia pra não errar mais. Compare a pronúncia de \"know\" e \"no\".",
-            "grupoId": 3,
-            "expressao": "no"
-          },
-          {
-            "id": 180,
-            "dica": "Muitas vezes, quando tivermos \"aw\" ou \"au\", o som será de \"ó\".",
-            "grupoId": 3,
-            "expressao": "awful"
-          },
-          {
-            "id": 181,
-            "dica": "Muitas vezes, quando tivermos \"aw\" ou \"au\", o som será de \"ó\".",
-            "grupoId": 3,
-            "expressao": "awesome"
-          },
-          {
-            "id": 182,
-            "dica": "Muitas vezes, quando tivermos \"aw\" ou \"au\", o som será de \"ó\". (Atente-se também, para o som de \"r\" no lugar do \"t\"; além disso, o \"gh\" não é falado em daughter).",
-            "grupoId": 3,
-            "expressao": "daughter"
-          }
-    ]
+  "grupos": [
+    {
+      "id": 1,
+      "nome": "Módulo 2 - 1ª Parte"
+    },
+    {
+      "id": 2,
+      "nome": "Módulo 2 - 2ª Parte"
+    },
+    {
+      "id": 3,
+      "nome": "Módulo - 3ª parte"
+    }
+  ],
+  "conjunto": [
+    {
+      "id": 1,
+      "dica": "No inglês, existem alguns sons considerados longos e outros, curtos. Desses, a principal confusão que fazemos é a diferença entre o “i” longo e um “i” curto. Essa diferença fica muito clara quando pensamos em pares como: live (curto) x leave (longo).",
+      "grupoId": 1,
+      "expressao": "Leave"
+    },
+    {
+      "id": 2,
+      "dica": "No inglês, existem alguns sons considerados longos e outros, curtos. Desses, a principal confusão que fazemos é a diferença entre o “i” longo e um “i” curto. Essa diferença fica muito clara quando pensamos em pares como: live (curto) x leave (longo).",
+      "grupoId": 1,
+      "expressao": "Live"
+    },
+    {
+      "id": 3,
+      "dica": "No inglês, existem alguns sons considerados longos e outros, curtos. Desses, a principal confusão que fazemos é a diferença entre o “i” longo e um “i” curto. Essa diferença fica muito clara quando pensamos em pares como: live (curto) x leave (longo).",
+      "grupoId": 1,
+      "expressao": "Key"
+    },
+    {
+      "id": 6,
+      "dica": "“Coffee”, a palavra em inglês para café, possui o som da letra “i” longo ao final da palavra.",
+      "grupoId": 1,
+      "expressao": "Coffee"
+    },
+    {
+      "id": 7,
+      "dica": "Enquanto que “cough” – que quer dizer tosse - não possui som de vogal, é apenas o fonema da letra “F” (apesar de ser representado pelas letras “gh”).",
+      "grupoId": 1,
+      "expressao": "Cough"
+    },
+    {
+      "grupoId": 1,
+      "id": 8,
+      "expressao": "Facebook",
+      "dica": "Cuidado pra não colocar um som de “i” onde não tem, como em “facebooki”"
+    },
+    {
+      "grupoId": 1,
+      "id": 9,
+      "expressao": "McDonald's",
+      "dica": "Cuidado pra não colocar um som de “i” onde não tem, como em “facebooki”"
+    },
+    {
+      "grupoId": 1,
+      "id": 10,
+      "expressao": "Netflix",
+      "dica": "Cuidado pra não colocar um som de “i” onde não tem, como em “facebooki”"
+    },
+    {
+      "id": 11,
+      "dica": "Não esqueça de falar o \"y\" ao final das palavras! Aqui, é o oposto do que ocorre em \"facebooki\", pois precisamos desse som ao final da palavra. ",
+      "grupoId": 1,
+      "expressao": "Empty"
+    },
+    {
+      "id": 12,
+      "dica": "Não esqueça de falar o \"y\" ao final das palavras! Aqui, é o oposto do que ocorre em \"facebooki\", pois precisamos desse som ao final da palavra. ",
+      "grupoId": 1,
+      "expressao": "Plenty"
+    },
+    {
+      "id": 13,
+      "dica": "Não esqueça de falar o \"y\" ao final das palavras! Aqui, é o oposto do que ocorre em \"facebooki\", pois precisamos desse som ao final da palavra. ",
+      "grupoId": 1,
+      "expressao": "Fifty"
+    },
+    {
+      "id": 14,
+      "dica": "Não esqueça de falar o \"y\" ao final das palavras! Aqui, é o oposto do que ocorre em \"facebooki\", pois precisamos desse som ao final da palavra. ",
+      "grupoId": 1,
+      "expressao": "Sixty"
+    },
+    {
+      "id": 17,
+      "dica": "Compare a pronúncia de \"at\" e \"ate\". ",
+      "grupoId": 1,
+      "expressao": "At"
+    },
+    {
+      "id": 18,
+      "dica": "Compare a pronúncia de \"at\" e \"ate\". Esta letra \"e\" ao final não deve ser falada, ela está ali apenas para alterar o som da vogal anterior.",
+      "grupoId": 1,
+      "expressao": "He ate pasta."
+    },
+    {
+      "id": 19,
+      "dica": "Compare a pronúncia de \"bath\" e \"bathe\".",
+      "grupoId": 1,
+      "expressao": "Bath"
+    },
+    {
+      "id": 20,
+      "dica": "Compare a pronúncia de \"bath\" e \"bathe\". Esta letra \"e\" ao final não deve ser falada, ela está ali apenas para alterar o som da vogal anterior.",
+      "grupoId": 1,
+      "expressao": "Bathe"
+    },
+    {
+      "id": 23,
+      "dica": "Esta letra \"e\" ao final não deve ser falada, ela está ali apenas para alterar o som da vogal anterior. ",
+      "grupoId": 1,
+      "expressao": "Come"
+    },
+    {
+      "id": 24,
+      "dica": "Esta letra \"e\" ao final não deve ser falada, ela está ali apenas para alterar o som da vogal anterior.",
+      "grupoId": 1,
+      "expressao": "Phone"
+    },
+    {
+      "id": 25,
+      "dica": "Esta letra \"e\" ao final não deve ser falada, ela está ali apenas para alterar o som da vogal anterior.",
+      "grupoId": 1,
+      "expressao": "Home"
+    },
+    {
+      "id": 26,
+      "dica": "Compare a pronúncia de \"look\" (u curto) e \"Luke\" (u longo).",
+      "grupoId": 1,
+      "expressao": "Look"
+    },
+    {
+      "id": 27,
+      "dica": "Compare a pronúncia de \"look\" (u curto) e \"Luke\" (u longo).",
+      "grupoId": 1,
+      "expressao": "Luke"
+    },
+    {
+      "id": 28,
+      "dica": "\"Book\" tem som de \"u\" curto.",
+      "grupoId": 1,
+      "expressao": "Book"
+    },
+    {
+      "id": 29,
+      "dica": "\"food\" tem som de \"u\" longo.",
+      "grupoId": 1,
+      "expressao": "Food"
+    },
+    {
+      "id": 30,
+      "dica": "Compare as pronúncias de \"bad\" e \"bed\". Em “bed” temos um som de letra “é” curto, já em “bad” temos um som de letra “é” longo e mais aberto, como se fôssemos falar um “a”.",
+      "grupoId": 1,
+      "expressao": "Bad"
+    },
+    {
+      "id": 31,
+      "dica": "Compare as pronúncias de \"bad\" e \"bed\". Em “bed” temos um som de letra “é” curto, já em “bad” temos um som de letra “é” longo e mais aberto, como se fôssemos falar um “a”.",
+      "grupoId": 1,
+      "expressao": "Bed"
+    },
+    {
+      "id": 32,
+      "dica": "Compare as pronúncias de \"man\" e \"men\". Em “men” temos um som de letra “é” curto, já em “man” temos um som de letra “é” longo e mais aberto, como se fôssemos falar um “a”.",
+      "grupoId": 1,
+      "expressao": "Man"
+    },
+    {
+      "id": 33,
+      "dica": "Compare as pronúncias de \"man\" e \"men\". Em “men” temos um som de letra “é” curto, já em “man” temos um som de letra “é” longo e mais aberto, como se fôssemos falar um “a”.",
+      "grupoId": 1,
+      "expressao": "Men"
+    },
+    {
+      "id": 36,
+      "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato (aquela coçadinha na garganta). O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
+      "grupoId": 1,
+      "expressao": "House"
+    },
+    {
+      "id": 37,
+      "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato (aquela coçadinha na garganta). O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
+      "grupoId": 1,
+      "expressao": "Hugo"
+    },
+    {
+      "id": 39,
+      "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato (aquela coçadinha na garganta). O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
+      "grupoId": 1,
+      "expressao": "He is the heir to the throne."
+    },
+    {
+      "id": 40,
+      "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato (aquela coçadinha na garganta). O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
+      "grupoId": 1,
+      "expressao": "honor"
+    },
+    {
+      "id": 41,
+      "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, silencioso, ou ter som do nosso “r” de rato (aquela coçadinha na garganta). O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
+      "grupoId": 1,
+      "expressao": "Henry"
+    },
+    {
+      "id": 42,
+      "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato (aquela coçadinha na garganta). O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
+      "grupoId": 1,
+      "expressao": "honest"
+    },
+    {
+      "id": 43,
+      "dica": "Quando temos um som de consoante e, em seguida, um som de vogal (mesmo que em palavras separadas), precisamos juntar esses sons, como em \"anour\". ",
+      "grupoId": 1,
+      "expressao": "an hour"
+    },
+    {
+      "id": 44,
+      "dica": "Quando temos um som de consoante e, em seguida, um som de vogal (mesmo que em palavras separadas), precisamos juntar esses sons, como em \"anonest\". ",
+      "grupoId": 1,
+      "expressao": "an honest mistake"
+    },
+    {
+      "id": 45,
+      "dica": "Quando temos um som de consoante e, em seguida, um som de vogal (mesmo que em palavras separadas), precisamos juntar esses sons, como em \"anonor\".",
+      "grupoId": 1,
+      "expressao": "such an honor!"
+    },
+    {
+      "id": 46,
+      "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato. Aquela coçadinha na garganta. O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
+      "grupoId": 2,
+      "expressao": "house"
+    },
+    {
+      "id": 47,
+      "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato. Aquela coçadinha na garganta. O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
+      "grupoId": 2,
+      "expressao": "Hugo"
+    },
+    {
+      "id": 48,
+      "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato. Aquela coçadinha na garganta. O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
+      "grupoId": 2,
+      "expressao": "hour"
+    },
+    {
+      "id": 49,
+      "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato. Aquela coçadinha na garganta. O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
+      "grupoId": 2,
+      "expressao": "Henry"
+    },
+    {
+      "id": 50,
+      "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato. Aquela coçadinha na garganta. O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
+      "grupoId": 2,
+      "expressao": "heir"
+    },
+    {
+      "id": 51,
+      "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato. Aquela coçadinha na garganta. O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
+      "grupoId": 2,
+      "expressao": "honor"
+    },
+    {
+      "id": 52,
+      "dica": "A letra “h” em inglês tem duas possibilidades fonéticas: ser silent, sem som, ou ter som do nosso “r” de rato. Aquela coçadinha na garganta. O mais fácil aqui, é decorar as vezes em que o “h” não tem som: honest, hour, heir, honor são as mais importantes. ",
+      "grupoId": 2,
+      "expressao": "honest"
+    },
+    {
+      "id": 53,
+      "dica": "Quando temos um som de consoante e, em seguida, um som de vogal (mesmo que em palavras separadas), precisamos juntar esses sons, como em \"anour\". ",
+      "grupoId": 2,
+      "expressao": "an hour"
+    },
+    {
+      "id": 54,
+      "dica": "Quando temos um som de consoante e, em seguida, um som de vogal (mesmo que em palavras separadas), precisamos juntar esses sons, como em \"anonest\". ",
+      "grupoId": 2,
+      "expressao": "an honest mistake"
+    },
+    {
+      "id": 55,
+      "dica": "Quando temos um som de consoante e, em seguida, um som de vogal (mesmo que em palavras separadas), precisamos juntar esses sons, como em \"anonor\". ",
+      "grupoId": 2,
+      "expressao": "such an honor!"
+    },
+    {
+      "id": 56,
+      "dica": "A letra “L” do inglês é um pouco mais complexa que no português. Mesmo ao final das palavras, ela deve ser bem pronunciada. O que acontece é: ponta da língua no céu da boca, dorso e começo da língua bem abaixados e o céu da boca vai levantar automaticamente. ",
+      "grupoId": 2,
+      "expressao": "Brazil"
+    },
+    {
+      "id": 57,
+      "dica": "A letra “L” do inglês é um pouco mais complexa que no português. Mesmo ao final das palavras, ela deve ser bem pronunciada. O que acontece é: ponta da língua no céu da boca, dorso e começo da língua bem abaixados e o céu da boca vai levantar automaticamente. ",
+      "grupoId": 2,
+      "expressao": "all"
+    },
+    {
+      "id": 58,
+      "dica": "A letra “L” do inglês é um pouco mais complexa que no português. Mesmo ao final das palavras, ela deve ser bem pronunciada. O que acontece é: ponta da língua no céu da boca, dorso e começo da língua bem abaixados e o céu da boca vai levantar automaticamente. ",
+      "grupoId": 2,
+      "expressao": "boil"
+    },
+    {
+      "id": 59,
+      "dica": "A letra “L” do inglês é um pouco mais complexa que no português. Mesmo ao final das palavras, ela deve ser bem pronunciada. O que acontece é: ponta da língua no céu da boca, dorso e começo da língua bem abaixados e o céu da boca vai levantar automaticamente. ",
+      "grupoId": 2,
+      "expressao": "heel"
+    },
+    {
+      "id": 60,
+      "dica": "A letra “L” do inglês é um pouco mais complexa que no português. Mesmo ao final das palavras, ela deve ser bem pronunciada. O que acontece é: ponta da língua no céu da boca, dorso e começo da língua bem abaixados e o céu da boca vai levantar automaticamente. ",
+      "grupoId": 2,
+      "expressao": "hill"
+    },
+    {
+      "id": 61,
+      "dica": "A letra “L” do inglês é um pouco mais complexa que no português. Mesmo ao final das palavras, ela deve ser bem pronunciada. O que acontece é: ponta da língua no céu da boca, dorso e começo da língua bem abaixados e o céu da boca vai levantar automaticamente. ",
+      "grupoId": 2,
+      "expressao": "sale"
+    },
+    {
+      "id": 62,
+      "dica": "No português, a finalização da letra “m” é muito diferente do inglês. Em inglês, precisamos terminar a letra com os lábios fechados.",
+      "grupoId": 2,
+      "expressao": "mom"
+    },
+    {
+      "id": 63,
+      "dica": "No português, a finalização da letra “m” é muito diferente do inglês. Em inglês, precisamos terminar a letra com os lábios fechados.",
+      "grupoId": 2,
+      "expressao": "come"
+    },
+    {
+      "id": 64,
+      "dica": "No português, a finalização da letra “m” é muito diferente do inglês. Em inglês, precisamos terminar a letra com os lábios fechados.",
+      "grupoId": 2,
+      "expressao": "ham"
+    },
+    {
+      "id": 65,
+      "dica": "No português, a finalização da letra “m” é muito diferente do inglês. Em inglês, precisamos terminar a letra com os lábios fechados.",
+      "grupoId": 2,
+      "expressao": "am"
+    },
+    {
+      "id": 66,
+      "dica": "No português, a finalização da letra “m” é muito diferente do inglês. Em inglês, precisamos terminar a letra com os lábios fechados.",
+      "grupoId": 2,
+      "expressao": "boom"
+    },
+    {
+      "id": 67,
+      "dica": "Já com relação à letra \"n\", terminamos com os lábios abertos, mas a ponta da língua fica lá em cima no céu da boca.",
+      "grupoId": 2,
+      "expressao": "sun"
+    },
+    {
+      "id": 68,
+      "dica": "Já com relação à letra \"n\", terminamos com os lábios abertos, mas a ponta da língua fica lá em cima no céu da boca.",
+      "grupoId": 2,
+      "expressao": "son"
+    },
+    {
+      "id": 69,
+      "dica": "Já com relação à letra \"n\", terminamos com os lábios abertos, mas a ponta da língua fica lá em cima no céu da boca.",
+      "grupoId": 2,
+      "expressao": "on"
+    },
+    {
+      "id": 70,
+      "dica": "Já com relação à letra \"n\", terminamos com os lábios abertos, mas a ponta da língua fica lá em cima no céu da boca.",
+      "grupoId": 2,
+      "expressao": "own"
+    },
+    {
+      "id": 71,
+      "dica": "Já com relação à letra \"n\", terminamos com os lábios abertos, mas a ponta da língua fica lá em cima no céu da boca.",
+      "grupoId": 2,
+      "expressao": "in"
+    },
+    {
+      "id": 72,
+      "dica": "Já com relação à letra \"n\", terminamos com os lábios abertos, mas a ponta da língua fica lá em cima no céu da boca.",
+      "grupoId": 2,
+      "expressao": "win"
+    },
+    {
+      "id": 73,
+      "dica": "Já com relação à letra \"n\", terminamos com os lábios abertos, mas a ponta da língua fica lá em cima no céu da boca.",
+      "grupoId": 2,
+      "expressao": "run"
+    },
+    {
+      "id": 74,
+      "dica": "Já com relação à letra \"n\", terminamos com os lábios abertos, mas a ponta da língua fica lá em cima no céu da boca.",
+      "grupoId": 2,
+      "expressao": "fan"
+    },
+    {
+      "id": 75,
+      "dica": "Já com relação à letra \"n\", terminamos com os lábios abertos, mas a ponta da língua fica lá em cima no céu da boca.",
+      "grupoId": 2,
+      "expressao": "fun"
+    },
+    {
+      "id": 76,
+      "dica": "O som do “r” no inglês é bem simples, só tem uma opção. O que nos confunde é que, no português, podemos fazer vários sons com o \"R\": Rato, pRoblema, poRta. Em inglês, basicamente, temos só o som de “poRta”, não interessa se no meio, no começo ou no final da palavra. ",
+      "grupoId": 2,
+      "expressao": "restaurant"
+    },
+    {
+      "id": 77,
+      "dica": "O som do “r” no inglês é bem simples, só tem uma opção. O que nos confunde é que, no português, podemos fazer vários sons com o \"R\": Rato, pRoblema, poRta. Em inglês, basicamente, temos só o som de “poRta”, não interessa se no meio, no começo ou no final da palavra. ",
+      "grupoId": 2,
+      "expressao": "great"
+    },
+    {
+      "id": 78,
+      "dica": "O som do “r” no inglês é bem simples, só tem uma opção. O que nos confunde é que, no português, podemos fazer vários sons com o \"R\": Rato, pRoblema, poRta. Em inglês, basicamente, temos só o som de “poRta”, não interessa se no meio, no começo ou no final da palavra. ",
+      "grupoId": 2,
+      "expressao": "room"
+    },
+    {
+      "id": 79,
+      "dica": "O som do “r” no inglês é bem simples, só tem uma opção. O que nos confunde é que, no português, podemos fazer vários sons com o \"R\": Rato, pRoblema, poRta. Em inglês, basicamente, temos só o som de “poRta”, não interessa se no meio, no começo ou no final da palavra. ",
+      "grupoId": 2,
+      "expressao": "roar"
+    },
+    {
+      "id": 80,
+      "dica": "O som do “r” no inglês é bem simples, só tem uma opção. O que nos confunde é que, no português, podemos fazer vários sons com o \"R\": Rato, pRoblema, poRta. Em inglês, basicamente, temos só o som de “poRta”, não interessa se no meio, no começo ou no final da palavra. ",
+      "grupoId": 2,
+      "expressao": "America"
+    },
+    {
+      "id": 81,
+      "dica": "A dica aqui é falar os dois sons que já aprendemos separadamente: R e L. Fale um, depois o outro, e vá acelerando até parecer um som só.",
+      "grupoId": 2,
+      "expressao": "world"
+    },
+    {
+      "id": 82,
+      "dica": "A dica aqui é falar os dois sons que já aprendemos separadamente: R e L. Fale um, depois o outro, e vá acelerando até parecer um som só.",
+      "grupoId": 2,
+      "expressao": "girl"
+    },
+    {
+      "id": 83,
+      "dica": "A dica aqui é falar os dois sons que já aprendemos separadamente: R e L. Fale um, depois o outro, e vá acelerando até parecer um som só. *muita atenção ao som do \"les\" em Charles.",
+      "grupoId": 2,
+      "expressao": "Charles"
+    },
+    {
+      "id": 84,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele é bem limpo, claro, sem ar escapando.",
+      "grupoId": 2,
+      "expressao": "tea"
+    },
+    {
+      "id": 85,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele é bem limpo, claro, sem ar escapando.",
+      "grupoId": 2,
+      "expressao": "teacher"
+    },
+    {
+      "id": 86,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele é bem limpo, claro, sem ar escapando.",
+      "grupoId": 2,
+      "expressao": "hot"
+    },
+    {
+      "id": 87,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele é bem limpo, claro, sem ar escapando.",
+      "grupoId": 2,
+      "expressao": "can't"
+    },
+    {
+      "id": 88,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele é bem limpo, claro, sem ar escapando.",
+      "grupoId": 2,
+      "expressao": "what"
+    },
+    {
+      "id": 89,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele é bem limpo, claro, sem ar escapando.",
+      "grupoId": 2,
+      "expressao": "that"
+    },
+    {
+      "id": 90,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, deixamos sair um pouco de ar.",
+      "grupoId": 2,
+      "expressao": "to"
+    },
+    {
+      "id": 91,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, deixamos sair um pouco de ar.",
+      "grupoId": 2,
+      "expressao": "tomorrow"
+    },
+    {
+      "id": 92,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, deixamos sair um pouco de ar.",
+      "grupoId": 2,
+      "expressao": "talk"
+    },
+    {
+      "id": 93,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, o “t” tem um som de “r” como em “pRoblema”. Isto vai acontecer sempre que o “t” estiver entre sons de vogais e for uma sílaba fraca.",
+      "grupoId": 2,
+      "expressao": "a lot of"
+    },
+    {
+      "id": 94,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, o “t” tem um som de “r” como em “pRoblema”. Isto vai acontecer sempre que o “t” estiver entre sons de vogais e for uma sílaba fraca.",
+      "grupoId": 2,
+      "expressao": "little"
+    },
+    {
+      "id": 95,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, o “t” tem um som de “r” como em “pRoblema”. Isto vai acontecer sempre que o “t” estiver entre vogais e for uma sílaba fraca.",
+      "grupoId": 2,
+      "expressao": "party"
+    },
+    {
+      "id": 96,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, o “t” tem um som de “r” como em “pRoblema”. Isto vai acontecer sempre que o “t” estiver entre vogais e for uma sílaba fraca.",
+      "grupoId": 2,
+      "expressao": "better"
+    },
+    {
+      "id": 97,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, o “t” tem um som de “r” como em “pRoblema”. Isto vai acontecer sempre que o “t” estiver entre vogais e for uma sílaba fraca.",
+      "grupoId": 2,
+      "expressao": "Italy"
+    },
+    {
+      "id": 98,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, o “t” tem um som de “r” como em “pRoblema”. Isto vai acontecer sempre que o “t” estiver entre vogais e for uma sílaba fraca.",
+      "grupoId": 2,
+      "expressao": "started"
+    },
+    {
+      "id": 99,
+      "dica": "Aqui, a letra \"d\" tem o mesmo som de \"r\" que temos em \"a lot of\".",
+      "grupoId": 2,
+      "expressao": "daddy"
+    },
+    {
+      "id": 100,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele não é falado.",
+      "grupoId": 2,
+      "expressao": "listen"
+    },
+    {
+      "id": 101,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele não é falado.",
+      "grupoId": 2,
+      "expressao": "Christmas"
+    },
+    {
+      "id": 102,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele não é falado.",
+      "grupoId": 2,
+      "expressao": "whistle"
+    },
+    {
+      "id": 103,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele não é falado.",
+      "grupoId": 2,
+      "expressao": "castle"
+    },
+    {
+      "id": 104,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele pode ser falado (com som de \"t\" sem ar), ou não.",
+      "grupoId": 2,
+      "expressao": "interview"
+    },
+    {
+      "id": 105,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele pode ser falado (com som de \"t\" sem ar), ou não.",
+      "grupoId": 2,
+      "expressao": "advantage"
+    },
+    {
+      "id": 106,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, ele pode ser falado (com som de \"t\" sem ar), ou não.",
+      "grupoId": 2,
+      "expressao": "twenty"
+    },
+    {
+      "id": 107,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, deixamos sair um pouco de ar.",
+      "grupoId": 2,
+      "expressao": "Italian"
+    },
+    {
+      "id": 108,
+      "dica": "A letra \"t\" tem várias possibilidades em inglês. Aqui, deixamos sair um pouco de ar.",
+      "grupoId": 2,
+      "expressao": "attack"
+    },
+    {
+      "id": 109,
+      "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
+      "grupoId": 2,
+      "expressao": "think"
+    },
+    {
+      "id": 110,
+      "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
+      "grupoId": 2,
+      "expressao": "thought"
+    },
+    {
+      "id": 111,
+      "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
+      "grupoId": 2,
+      "expressao": "thing"
+    },
+    {
+      "id": 112,
+      "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
+      "grupoId": 2,
+      "expressao": "fourth"
+    },
+    {
+      "id": 113,
+      "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e mantemos ela um pouco mais próxima dos dentes superiores, oferecendo certa resistência à passagem do ar.",
+      "grupoId": 2,
+      "expressao": "that"
+    },
+    {
+      "id": 114,
+      "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e mantemos ela um pouco mais próxima dos dentes superiores, oferecendo certa resistência à passagem do ar.",
+      "grupoId": 2,
+      "expressao": "this"
+    },
+    {
+      "id": 115,
+      "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e mantemos ela um pouco mais próxima dos dentes superiores, oferecendo certa resistência à passagem do ar.",
+      "grupoId": 2,
+      "expressao": "these"
+    },
+    {
+      "id": 116,
+      "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e mantemos ela um pouco mais próxima dos dentes superiores, oferecendo certa resistência à passagem do ar.",
+      "grupoId": 2,
+      "expressao": "those"
+    },
+    {
+      "id": 117,
+      "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e mantemos ela um pouco mais próxima dos dentes superiores, oferecendo certa resistência à passagem do ar.",
+      "grupoId": 2,
+      "expressao": "then"
+    },
+    {
+      "id": 118,
+      "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
+      "grupoId": 2,
+      "expressao": "fifth"
+    },
+    {
+      "id": 119,
+      "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
+      "grupoId": 2,
+      "expressao": "sixth"
+    },
+    {
+      "id": 120,
+      "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
+      "grupoId": 2,
+      "expressao": "seventh"
+    },
+    {
+      "id": 121,
+      "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
+      "grupoId": 2,
+      "expressao": "eighth"
+    },
+    {
+      "id": 122,
+      "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
+      "grupoId": 2,
+      "expressao": "ninth"
+    },
+    {
+      "id": 123,
+      "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
+      "grupoId": 2,
+      "expressao": "tenth"
+    },
+    {
+      "id": 124,
+      "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
+      "grupoId": 2,
+      "expressao": "twelfth"
+    },
+    {
+      "id": 125,
+      "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
+      "grupoId": 2,
+      "expressao": "twentieth"
+    },
+    {
+      "id": 126,
+      "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
+      "grupoId": 2,
+      "expressao": "thirtieth"
+    },
+    {
+      "id": 127,
+      "dica": "Para falarmos o \"th\" dessa palavra, colocamos a ponta da língua entre os dentes da frente e deixamos passar bastante ar.",
+      "grupoId": 2,
+      "expressao": "fortieth"
+    },
+    {
+      "id": 128,
+      "dica": "Os numerais terminados em “teen” tem esta sílaba tônica. Cuidado para não confundir com os terminados em “ty”",
+      "grupoId": 2,
+      "expressao": "fourteen"
+    },
+    {
+      "id": 129,
+      "dica": "Os numerais terminados em “ty” tem esta sílaba fraca. Cuidado para não confundir com os terminados em “teen”",
+      "grupoId": 2,
+      "expressao": "forty"
+    },
+    {
+      "id": 130,
+      "dica": "Os numerais terminados em “teen” tem esta sílaba tônica. Cuidado para não confundir com os terminados em “ty”",
+      "grupoId": 2,
+      "expressao": "thirteen"
+    },
+    {
+      "id": 131,
+      "dica": "Os numerais terminados em “ty” tem esta sílaba fraca. Cuidado para não confundir com os terminados em “teen”",
+      "grupoId": 2,
+      "expressao": "thirty"
+    },
+    {
+      "id": 132,
+      "dica": "Os numerais terminados em “teen” tem esta sílaba tônica. Cuidado para não confundir com os terminados em “ty”",
+      "grupoId": 2,
+      "expressao": "eighteen"
+    },
+    {
+      "id": 133,
+      "dica": "Os numerais terminados em “ty” tem esta sílaba fraca. Cuidado para não confundir com os terminados em “teen”",
+      "grupoId": 2,
+      "expressao": "eighty"
+    },
+    {
+      "id": 134,
+      "dica": "Na maioria das palavras terminadas em -ed, a letra \"e\" não tem som, fale somente a consoante final.",
+      "grupoId": 3,
+      "expressao": "worked"
+    },
+    {
+      "id": 135,
+      "dica": "Na maioria das palavras terminadas em -ed, a letra \"e\" não tem som, fale somente a consoante final.",
+      "grupoId": 3,
+      "expressao": "traveled"
+    },
+    {
+      "id": 136,
+      "dica": "Na maioria das palavras terminadas em -ed, a letra \"e\" não tem som, fale somente a consoante final.",
+      "grupoId": 3,
+      "expressao": "walked"
+    },
+    {
+      "id": 137,
+      "dica": "Na maioria das palavras terminadas em -ed, a letra \"e\" não tem som, fale somente a consoante final.",
+      "grupoId": 3,
+      "expressao": "watched"
+    },
+    {
+      "id": 138,
+      "dica": "A regra do \"e\" sem som só não vale para os verbos terminados em \"t\" e \"d\". Neste caso, a letra \"e\" é falada, mas com som fraco.",
+      "grupoId": 3,
+      "expressao": "started"
+    },
+    {
+      "id": 139,
+      "dica": "A regra do \"e\" sem som só não vale para os verbos terminados em \"t\" e \"d\". Neste caso, a letra \"e\" é falada, mas com som fraco.",
+      "grupoId": 3,
+      "expressao": "wounded"
+    },
+    {
+      "id": 140,
+      "dica": "A regra do \"e\" sem som só não vale para os verbos terminados em \"t\" e \"d\". Neste caso, a letra \"e\" é falada, mas com som fraco.",
+      "grupoId": 3,
+      "expressao": "sounded"
+    },
+    {
+      "id": 141,
+      "dica": "Algumas palavras exigem mais treino para nos acostumarmos com a pronúncia. Ouça várias vezes e repita até se sentir confortável. Nesta, o \"gh\" não tem som.",
+      "grupoId": 3,
+      "expressao": "through"
+    },
+    {
+      "id": 142,
+      "dica": "Algumas palavras exigem mais treino para nos acostumarmos com a pronúncia. Ouça várias vezes e repita até se sentir confortável. Nesta, o \"gh\" tem som de \"f\".",
+      "grupoId": 3,
+      "expressao": "tough"
+    },
+    {
+      "id": 143,
+      "dica": "Algumas palavras exigem mais treino para nos acostumarmos com a pronúncia. Ouça várias vezes e repita até se sentir confortável.",
+      "grupoId": 3,
+      "expressao": "thought"
+    },
+    {
+      "id": 144,
+      "dica": "Algumas palavras exigem mais treino para nos acostumarmos com a pronúncia. Ouça várias vezes e repita até se sentir confortável. Nesta, o \"gh\" não tem som.",
+      "grupoId": 3,
+      "expressao": "thorough"
+    },
+    {
+      "id": 145,
+      "dica": "Algumas palavras exigem mais treino para nos acostumarmos com a pronúncia. Ouça várias vezes e repita até se sentir confortável. Nesta, o \"gh\" tem som de \"f\".",
+      "grupoId": 3,
+      "expressao": "laugh"
+    },
+    {
+      "id": 146,
+      "dica": "Algumas palavras exigem mais treino para nos acostumarmos com a pronúncia. Ouça várias vezes e repita até se sentir confortável. Nesta, o \"gh\" tem som de \"f\".",
+      "grupoId": 3,
+      "expressao": "cough"
+    },
+    {
+      "id": 147,
+      "dica": "Algumas palavras exigem mais treino para nos acostumarmos com a pronúncia. Ouça várias vezes e repita até se sentir confortável. Nesta, o \"gh\" não tem som.",
+      "grupoId": 3,
+      "expressao": "night"
+    },
+    {
+      "id": 148,
+      "dica": "Algumas palavras exigem mais treino para nos acostumarmos com a pronúncia. Ouça várias vezes e repita até se sentir confortável. Nesta, o \"gh\" não tem som.",
+      "grupoId": 3,
+      "expressao": "eight"
+    },
+    {
+      "id": 149,
+      "dica": "Algumas palavras exigem mais treino para nos acostumarmos com a pronúncia. Ouça várias vezes e repita até se sentir confortável.",
+      "grupoId": 3,
+      "expressao": "drawer"
+    },
+    {
+      "id": 150,
+      "dica": "Algumas palavras exigem mais treino para nos acostumarmos com a pronúncia. Ouça várias vezes e repita até se sentir confortável.",
+      "grupoId": 3,
+      "expressao": "jewelry"
+    },
+    {
+      "id": 151,
+      "dica": "Compare a pronúncia de \"want\" e \"went\".",
+      "grupoId": 3,
+      "expressao": "want"
+    },
+    {
+      "id": 152,
+      "dica": "Compare a pronúncia de \"want\" e \"went\".",
+      "grupoId": 3,
+      "expressao": "went"
+    },
+    {
+      "id": 153,
+      "dica": "Compare a pronúncia de \"drank\" e \"drunk\".",
+      "grupoId": 3,
+      "expressao": "drank"
+    },
+    {
+      "id": 154,
+      "dica": "Compare a pronúncia de \"drank\" e \"drunk\".",
+      "grupoId": 3,
+      "expressao": "drunk"
+    },
+    {
+      "id": 155,
+      "dica": "Sílabas fracas podem ter som de \"schwa\", uma vogal diferente do inglês. São sílabas bem curtinhas e sem destaque na palavra, com um som parecido com \"ã\". Às vezes, podem ser suprimidas sem prejuízo nenhum.",
+      "grupoId": 3,
+      "expressao": "balloon"
+    },
+    {
+      "id": 156,
+      "dica": "Sílabas fracas podem ter som de \"schwa\", uma vogal diferente do inglês. São sílabas bem curtinhas e sem destaque na palavra, com um som parecido com \"ã\". Às vezes, podem ser suprimidas sem prejuízo nenhum.",
+      "grupoId": 3,
+      "expressao": "family"
+    },
+    {
+      "id": 157,
+      "dica": "Sílabas fracas podem ter som de \"schwa\", uma vogal diferente do inglês. São sílabas bem curtinhas e sem destaque na palavra, com um som parecido com \"ã\". Às vezes, podem ser suprimidas sem prejuízo nenhum.",
+      "grupoId": 3,
+      "expressao": "problem"
+    },
+    {
+      "id": 158,
+      "dica": "Sílabas fracas podem ter som de \"schwa\", uma vogal diferente do inglês. São sílabas bem curtinhas e sem destaque na palavra, com um som parecido com \"ã\". Às vezes, podem ser suprimidas sem prejuízo nenhum.",
+      "grupoId": 3,
+      "expressao": "interesting"
+    },
+    {
+      "id": 159,
+      "dica": "A sílaba tônica pode mudar muito a forma que uma palavra é falada. Compare as pronúncias de \"photograph\", \"photography\" e \"photographer\".",
+      "grupoId": 3,
+      "expressao": "photograph"
+    },
+    {
+      "id": 160,
+      "dica": "A sílaba tônica pode mudar muito a forma que uma palavra é falada. Compare as pronúncias de \"photograph\", \"photography\" e \"photographer\".",
+      "grupoId": 3,
+      "expressao": "photography"
+    },
+    {
+      "id": 161,
+      "dica": "A sílaba tônica pode mudar muito a forma que uma palavra é falada. Compare as pronúncias de \"photograph\", \"photography\" e \"photographer\".",
+      "grupoId": 3,
+      "expressao": "photographer"
+    },
+    {
+      "id": 162,
+      "dica": "Nesta palavra, a letra \"b\" não é falada.",
+      "grupoId": 3,
+      "expressao": "doubt"
+    },
+    {
+      "id": 163,
+      "dica": "Nesta palavra, a letra \"b\" não é falada.",
+      "grupoId": 3,
+      "expressao": "climb"
+    },
+    {
+      "id": 164,
+      "dica": "Nesta palavra, a letra \"b\" não é falada.",
+      "grupoId": 3,
+      "expressao": "bomb"
+    },
+    {
+      "id": 165,
+      "dica": "A sílaba tônica pode mudar muito a forma que uma palavra é falada. ",
+      "grupoId": 3,
+      "expressao": "permanently"
+    },
+    {
+      "id": 166,
+      "dica": "A sílaba tônica pode mudar muito a forma que uma palavra é falada. ",
+      "grupoId": 3,
+      "expressao": "supervisor"
+    },
+    {
+      "id": 167,
+      "dica": "A sílaba tônica pode mudar muito a forma que uma palavra é falada. ",
+      "grupoId": 3,
+      "expressao": "demonstrated"
+    },
+    {
+      "id": 168,
+      "dica": "A sílaba tônica pode mudar muito a forma que uma palavra é falada. ",
+      "grupoId": 3,
+      "expressao": "category"
+    },
+    {
+      "id": 169,
+      "dica": "A sílaba tônica pode mudar muito a forma que uma palavra é falada. ",
+      "grupoId": 3,
+      "expressao": "documentary"
+    },
+    {
+      "id": 170,
+      "dica": "Palavras que têm o mesmo som te ajudam a decorar a pronúncia pra não errar mais. Compare a pronúncia de \"hear\" e \"here\".",
+      "grupoId": 3,
+      "expressao": "hear"
+    },
+    {
+      "id": 171,
+      "dica": "Palavras que têm o mesmo som te ajudam a decorar a pronúncia pra não errar mais. Compare a pronúncia de \"hear\" e \"here\".",
+      "grupoId": 3,
+      "expressao": "here"
+    },
+    {
+      "id": 172,
+      "dica": "Palavras que têm o mesmo som te ajudam a decorar a pronúncia pra não errar mais. Compare a pronúncia de \"eye\" e \"I\".",
+      "grupoId": 3,
+      "expressao": "eye"
+    },
+    {
+      "id": 173,
+      "dica": "Palavras que têm o mesmo som te ajudam a decorar a pronúncia pra não errar mais. Compare a pronúncia de \"eye\" e \"I\".",
+      "grupoId": 3,
+      "expressao": "I"
+    },
+    {
+      "id": 174,
+      "dica": "Palavras que têm o mesmo som te ajudam a decorar a pronúncia pra não errar mais. Compare a pronúncia de \"where\" e \"wear\".",
+      "grupoId": 3,
+      "expressao": "Where"
+    },
+    {
+      "id": 175,
+      "dica": "Palavras que têm o mesmo som te ajudam a decorar a pronúncia pra não errar mais. Compare a pronúncia de \"where\" e \"wear\".",
+      "grupoId": 3,
+      "expressao": "wear"
+    },
+    {
+      "id": 176,
+      "dica": "Palavras que têm o mesmo som te ajudam a decorar a pronúncia pra não errar mais. Compare a pronúncia de \"there\" e \"their\".",
+      "grupoId": 3,
+      "expressao": "there"
+    },
+    {
+      "id": 177,
+      "dica": "Palavras que têm o mesmo som te ajudam a decorar a pronúncia pra não errar mais. Compare a pronúncia de \"there\" e \"their\".",
+      "grupoId": 3,
+      "expressao": "their"
+    },
+    {
+      "id": 178,
+      "dica": "Palavras que têm o mesmo som te ajudam a decorar a pronúncia pra não errar mais. Compare a pronúncia de \"know\" e \"no\".",
+      "grupoId": 3,
+      "expressao": "know"
+    },
+    {
+      "id": 179,
+      "dica": "Palavras que têm o mesmo som te ajudam a decorar a pronúncia pra não errar mais. Compare a pronúncia de \"know\" e \"no\".",
+      "grupoId": 3,
+      "expressao": "no"
+    },
+    {
+      "id": 180,
+      "dica": "Muitas vezes, quando tivermos \"aw\" ou \"au\", o som será de \"ó\".",
+      "grupoId": 3,
+      "expressao": "awful"
+    },
+    {
+      "id": 181,
+      "dica": "Muitas vezes, quando tivermos \"aw\" ou \"au\", o som será de \"ó\".",
+      "grupoId": 3,
+      "expressao": "awesome"
+    },
+    {
+      "id": 182,
+      "dica": "Muitas vezes, quando tivermos \"aw\" ou \"au\", o som será de \"ó\". (Atente-se também, para o som de \"r\" no lugar do \"t\"; além disso, o \"gh\" não é falado em daughter).",
+      "grupoId": 3,
+      "expressao": "daughter"
+    }
+  ]
 }
