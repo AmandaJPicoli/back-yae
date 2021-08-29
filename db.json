@@ -10,7 +10,11 @@
     },
     {
       "id": 3,
-      "nome": "Módulo 3 - 3ª parte"
+      "nome": "Módulo 2 - 3ª parte"
+    },
+    {
+      "id": 4,
+      "nome": "Módulo 3"
     }
   ],
   "conjunto": [
@@ -1055,115 +1059,115 @@
     {
       "id": 183,
       "dica": "Sons de consoantes se conectam a sons de vogais. Tente conectar like+it",
-      "grupoId": 3,
+      "grupoId": 4,
       "expressao": "I like it"
     },
     {
       "id": 184,
       "dica": "A letra 's' ganha um som mais forte quando aparece antes de uma vogal",
-      "grupoId": 3,
+      "grupoId": 4,
       "expressao": "She is young"
     },
     {
       "id": 185,
       "dica": "Sons de consoantes se conectam a sons de vogais. Tente conectar need+it",
-      "grupoId": 3,
+      "grupoId": 4,
       "expressao": "I need it"
     },
     {
       "id": 186,
       "dica": "Sons de consoantes se conectam a sons de vogais. Tente conectar needed+you",
-      "grupoId": 3,
+      "grupoId": 4,
       "expressao": "I needed you"
     },
     {
       "id": 187,
       "dica": "A letra 's' ganha um som mais forte quando aparece antes de uma vogal",
-      "grupoId": 3,
+      "grupoId": 4,
       "expressao": "It's a book"
     },
     {
       "id": 188,
       "dica": "A letra 's' ganha um som mais forte quando aparece antes de uma vogal. Tente conectar in+Italy.",
-      "grupoId": 3,
+      "grupoId": 4,
       "expressao": "Rome is in Italy"
     },
     {
       "id": 189,
       "dica": "Sons de consoantes se conectam a sons de vogais. Tente conectar eat+a",
-      "grupoId": 3,
+      "grupoId": 4,
       "expressao": "We eat a lot"
     },
     {
       "id": 190,
       "dica": "Sons de consoantes se conectam a sons de vogais. Tente conectar did+it",
-      "grupoId": 3,
+      "grupoId": 4,
       "expressao": "We did it yesterday"
     },
     {
       "id": 191,
       "dica": "Sons de consoantes se conectam a sons de vogais. Tente conectar said+it",
-      "grupoId": 3,
+      "grupoId": 4,
       "expressao": "She said it loudly"
     },
     {
       "id": 192,
       "dica": "Não repita o som da letra T, tente falar visit+them como uma palavra só.",
-      "grupoId": 3,
+      "grupoId": 4,
       "expressao": "I'd like to visit them"
     },
     {
       "id": 193,
       "dica": "Sons de consoantes se conectam a sons de vogais. Tente conectar him+a",
-      "grupoId": 3,
+      "grupoId": 4,
       "expressao": "She sent him a letter"
     },
     {
       "id": 194,
       "dica": ". Sons de consoantes se conectam a sons de vogais. Tente conectar in+an+hour",
-      "grupoId": 3,
+      "grupoId": 4,
       "expressao": "She'll be back in an hour"
     },
     {
       "id": 195,
       "dica": "Sons de consoantes se conectam a sons de vogais. Tente conectar bought+a",
-      "grupoId": 3,
+      "grupoId": 4,
       "expressao": "I bought a new apartment"
     },
     {
       "id": 196,
       "dica": "Sons de consoantes se conectam a sons de vogais. Tente conectar in+an+apartment",
-      "grupoId": 3,
+      "grupoId": 4,
       "expressao": "I live in an apartment"
     },
     {
       "id": 197,
       "dica": "A letra 's' ganha um som mais forte quando aparece antes de uma vogal. Tente conectar lives+in",
-      "grupoId": 3,
+      "grupoId": 4,
       "expressao": "Betty lives in London"
     },
     {
       "id": 198,
       "dica": "A letra 's' ganha um som mais forte quando aparece antes de uma vogal. Tente conectar Years+old",
-      "grupoId": 3,
+      "grupoId": 4,
       "expressao": "He is five years old"
     },
     {
       "id": 199,
       "dica": "Sons de consoantes se conectam a sons de vogais. Tente conectar Bob+is+at e não repita o T em at+the.",
-      "grupoId": 3,
+      "grupoId": 4,
       "expressao": "Bob is at the door"
     },
     {
       "id": 200,
       "dica": "Não repita o som da letra T, tente falar that+doesn’t como uma palavra só.",
-      "grupoId": 3,
+      "grupoId": 4,
       "expressao": "That doesn’t mean anything"
     },
     {
       "id": 201,
       "dica": "Sons de consoantes se conectam a sons de vogais. Tente conectar looked+in e but+I",
-      "grupoId": 3,
+      "grupoId": 4,
       "expressao": "I looked in the car but I didn’t see my keys"
     }
   ]
